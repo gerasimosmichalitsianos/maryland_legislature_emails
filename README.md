@@ -1,12 +1,14 @@
 ###### GENERAL DESCRIPTION: Maryland Legislature Emails
 
     It is the right of the people of any U.S. State, territory, province, etc. to petition their elected
-    representatives for a regress of grievances. This simple Perl program parses the two websites 
-    containing the emails for members of the Maryland Senate and the Maryland House of Delegates, 
-    dumping these to the terminal (console) or file. The output is comma-delimited. By passing 
-    in either "file" or "console" at the command line, the user may specify to have those emails 
-    written to the console or to a simple text file. The output can simply be copied and pasted 
-    into common email services (e.g. gmail) to email all the members of the legislature at-once.
+    representatives for a redress of grievances. One way to do this is through email.
+    
+    This simple Perl program parses the two websites containing the emails for members of the 
+    Maryland Senate and the Maryland House of Delegates, dumping these to the terminal (console) 
+    or file. The output is comma-delimited. By passing in either "file" or "console" at the command 
+    line, the user may specify to have those emails written to the console or to a simple text file. 
+    The output can simply be copied and pasted into common email services (e.g. gmail) to email 
+    all the members of the legislature at-once.
     
     It is expected you will have Perl 5 installed, and that this program will be run in a Linux
     or UNIX-like command-line environment.
