@@ -8,6 +8,9 @@
     written to the console or to a simple text file. The output can simply be copied and pasted 
     into common email services (e.g. gmail) to email all the members of the legislature at-once.
     
+    It is expected you will have Perl 5 installed, and that this program will be run in a Linux
+    or UNIX-like command-line environment.
+    
 ###### Perl VERSION
 
     Supports Perl 5.
