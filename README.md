@@ -11,7 +11,8 @@
     all the members of the legislature at-once.
     
     It is expected you will have Perl 5 installed, and that this program will be run in a Linux
-    or UNIX-like command-line environment.
+    or UNIX-like command-line environment. Almost all modern Linux distributions come with Perl 5
+    built-in.
     
 ###### Perl VERSION
 
