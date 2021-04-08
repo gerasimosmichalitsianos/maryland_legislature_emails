@@ -24,7 +24,7 @@
 ###### EXAMPLE USAGE
 
     $ chmod +x GetEmails.pl
-    $ ./GetEmails.pl console
+    $ ./GetEmails.pl --console
     gabriel.acevero@house.state.md.us,christopher.adams@house.state.md.us, ...
     
     ...
@@ -32,7 +32,9 @@
     ...
     
     By using the "file" flag, the emails are dumped to a text file 
-    legislature_emails.txt.
+    legislature_emails.txt:
+    
+    $ ./GetEmails.pl --file
 
 ###### @AUTHOR:
 
