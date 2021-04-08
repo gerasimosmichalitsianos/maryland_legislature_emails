@@ -7,7 +7,7 @@
 =head1 AUTHOR
   Gerasimos Michalitsianos
 =head1 REVISION
-  8 March 2021
+  8 April 2021
 =head1 METHODS
   Uses Perl programming language to parse
   two Maryland Legislature Gov. websites for email addresses of members. 
