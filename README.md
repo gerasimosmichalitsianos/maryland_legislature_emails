@@ -16,7 +16,7 @@
     
 ###### Perl VERSION
 
-    Supports Perl 5.
+    Perl 5.
     
 ###### INSTALLATION
 
