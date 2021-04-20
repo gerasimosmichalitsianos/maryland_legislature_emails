@@ -24,6 +24,10 @@
 
 ###### EXAMPLE USAGE
 
+    Adjust the path shebang to the full path of your Perl
+    interpreter in the first line of GetEmails.pl (for my Linux
+    system it was /usr/bin/perl). Then:
+
     $ chmod +x GetEmails.pl
     $ ./GetEmails.pl --console
     gabriel.acevero@house.state.md.us,christopher.adams@house.state.md.us, ...
@@ -31,6 +35,9 @@
     ...
     
     ...
+    
+    or 
+    $ perl GetEmails.pl --console
     
     By using the "file" flag, the emails are dumped to a text file 
     legislature_emails.txt:
