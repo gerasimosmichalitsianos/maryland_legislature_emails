@@ -116,7 +116,7 @@ sub ReadEmails {
     # get the email within the line
     # -----------------------------
     my $MDGovEmail = ( split '"',$HtmlLine )[1];
-    $MDGovEmail =~ s/mailto://g;
+    $MDGovEmail    =~ s/mailto://g;
     chomp( $MDGovEmail );
 
     # append list of emails
